@@ -1,2 +1,2 @@
 # Udemy-Clone
-My Udemy Clone Project using HTML and CSS
+Udemy Clone is a web development project that emulates the core design and layout of the popular online learning platform, Udemy. Built using HTML and CSS with Flexbox, this project showcases a responsive, modern interface with a focus on usability and aesthetics. The clone features a clean and intuitive layout, mimicking key elements such as course cards and navigation menu. This project serves as an excellent demonstration of using Flexbox for flexible, scalable design and layout in front-end web development.
